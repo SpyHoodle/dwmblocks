@@ -1,3 +1,0 @@
-#!/bin/sh
-
-printf "DISK $(df -h "/" | awk ' /[0-9]/ {print $3 "/" $2}')"
