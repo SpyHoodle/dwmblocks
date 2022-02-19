@@ -1,4 +1,5 @@
 # dwmblocks-async
+![dwmblocks screenshot](https://file.coffee/u/ASrRqPY8RLKzLY.png)
 My very minimal build of the dwmblocks-async status bar for my build of dwm, [perfectwm](https://github.com/SpyHoodle/perfectwm).
 
 ## scripts
