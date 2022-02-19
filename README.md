@@ -1,6 +1,6 @@
 # dwmblocks-async
 ![dwmblocks screenshot](https://file.coffee/u/ASrRqPY8RLKzLY.png)<br>
-My very minimal build of the dwmblocks-async status bar for my build of dwm, [perfectwm](https://github.com/SpyHoodle/perfectwm).
+My very minimal build of the [dwmblocks-async](https://github.com/liubianshi/dwmblocks-async) status bar for my build of dwm, [perfectwm](https://github.com/SpyHoodle/perfectwm).
 
 ## scripts
 I store my scripts in `.local/bin`, which is added to my `$PATH`.<br>
