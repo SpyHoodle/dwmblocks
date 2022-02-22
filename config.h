@@ -1,6 +1,5 @@
 #define CMDLENGTH 100
 #define DELIMITER "^c#D6DEEB^ | "
-#include "/home/spy/cols/dwmblocks.h"
 
 const Block blocks[] = {
 	BLOCK("echo ^c#56B6C2^$(sb-volume)",           0,    1)
