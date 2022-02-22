@@ -5,7 +5,7 @@ My perfect build of the [dwmblocks-async](https://github.com/liubianshi/dwmblock
 
 ## scripts
 I store my scripts in `.local/bin`, which is added to my `$PATH`.<br>
-You can find my scripts in my [dotfiles repository](https://github.com/SpyHoodle/dotfiles).
+You can find my scripts in my [scripts repository](https://github.com/SpyHoodle/scripts).
 
 ## installation
 **Note:** DWM needs the [status2d](https://dwm.suckless.org/patches/status2d/) patch for rendering colours.
